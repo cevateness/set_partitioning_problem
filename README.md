@@ -1,4 +1,4 @@
-# Set Partitioning Problem (SPP) Solver
+# Set Partitioning Problem (SPP) Practice Algorithms
 
 This repository contains various implementations for solving the Set Partitioning Problem (SPP), a combinatorial optimization problem often found in scheduling, crew assignment, and routing applications. The repo explores different methods ranging from exact algorithms to constraint programming and heuristic techniques.
 
